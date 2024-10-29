@@ -1,0 +1,14 @@
+.bais-wrap-edit-block {
+    display: flex;
+    position: relative;
+    width: 100%;    
+    // padding: 10px;
+    border-radius: 2px;
+    border: 1px solid #d6d6d6;
+    background-color: #f1f1f1;
+
+    .image-upload{
+        flex: 1;
+        padding: 10px;
+    }
+}
